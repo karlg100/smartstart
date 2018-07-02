@@ -3,6 +3,8 @@ var SmartStart = require('smartstart');
 var car = new SmartStart({
   username: 'foo@bar.com',
   password: 'foobar123'
+  //deviceIndex: 1  // uncomment for other vehicles
+  //deviceId: 1234  // uncomment and specify the specific vehicleId
 });
 
 var command = process.argv[2];
