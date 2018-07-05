@@ -17,12 +17,12 @@
     "python",
     "smartstart"
   ],
-  "author": "Dale Higgs <@dale3h",
+  "author": "Karl Grindley <@dale3h",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dale3h/smartstart/issues"
+    "url": "https://github.com/karlg100/smartstart/issues"
   },
-  "homepage": "https://github.com/dale3h/smartstart#readme",
+  "homepage": "https://github.com/karlg100/smartstart#readme",
   "dependencies": {
     "debug": "^2.5.1",
     "request": "^2.79.0",
